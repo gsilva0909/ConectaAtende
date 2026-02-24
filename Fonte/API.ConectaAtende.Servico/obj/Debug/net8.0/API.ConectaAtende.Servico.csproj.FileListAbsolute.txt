@@ -1,0 +1,12 @@
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\bin\Debug\net8.0\API.ConectaAtende.Servico.deps.json
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\bin\Debug\net8.0\API.ConectaAtende.Servico.dll
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\bin\Debug\net8.0\API.ConectaAtende.Servico.pdb
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\obj\Debug\net8.0\API.ConectaAtende.Servico.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\obj\Debug\net8.0\API.ConectaAtende.Servico.AssemblyInfoInputs.cache
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\obj\Debug\net8.0\API.ConectaAtende.Servico.AssemblyInfo.cs
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\obj\Debug\net8.0\API.ConectaAtende.Servico.csproj.CoreCompileInputs.cache
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\obj\Debug\net8.0\API.ConectaAtende.Servico.sourcelink.json
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\obj\Debug\net8.0\API.ConectaAtende.Servico.dll
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\obj\Debug\net8.0\refint\API.ConectaAtende.Servico.dll
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\obj\Debug\net8.0\API.ConectaAtende.Servico.pdb
+E:\Repositorios\API.Faculdade\ConectaAtende\Fonte\API.ConectaAtende.Servico\obj\Debug\net8.0\ref\API.ConectaAtende.Servico.dll
