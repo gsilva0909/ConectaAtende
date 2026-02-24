@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API.ConectaAtende.Servico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7463e8ec9918f1bb5b99f8b215768db1e2034b48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64cfe3ac48a7a1fe077a0997e1ddbc8423e5a505")]
 [assembly: System.Reflection.AssemblyProductAttribute("API.ConectaAtende.Servico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API.ConectaAtende.Servico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
