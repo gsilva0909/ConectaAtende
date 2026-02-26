@@ -13,6 +13,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\API.ConectaAtende.Aplicacao\API.ConectaAtende.Aplicacao.csproj" />
+    <ProjectReference Include="..\API.ConectaAtende.Dominio\API.ConectaAtende.Dominio.csproj" />
+    <ProjectReference Include="..\API.ConectaAtende.Infra\API.ConectaAtende.Infra.csproj" />
   </ItemGroup>
 
 </Project>

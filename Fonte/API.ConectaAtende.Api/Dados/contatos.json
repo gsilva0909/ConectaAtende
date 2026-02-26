@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "42a8ebdf-03ae-4e68-9574-c30239516086",
+    "Nome": "Jorge",
+    "Email": "string@gmail.com",
+    "Telefone": "03499999",
+    "DataCriacao": "0001-01-01T00:00:00",
+    "DataAtualizacao": "0001-01-01T00:00:00"
+  },
+  {
+    "Id": "a9efb4bd-4091-465b-8400-78eae571827f",
+    "Nome": "Jonas",
+    "Email": "string@gmail.com",
+    "Telefone": "03499999",
+    "DataCriacao": "0001-01-01T00:00:00",
+    "DataAtualizacao": "0001-01-01T00:00:00"
+  }
+]

@@ -32,3 +32,10 @@ C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.
 C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Api\obj\Debug\net8.0\API.ConectaAtende.Api.pdb
 C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Api\obj\Debug\net8.0\API.ConectaAtende.Api.genruntimeconfig.cache
 C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Api\obj\Debug\net8.0\ref\API.ConectaAtende.Api.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Api\bin\Debug\net8.0\API.ConectaAtende.Aplicacao.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Api\bin\Debug\net8.0\API.ConectaAtende.Dominio.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Api\bin\Debug\net8.0\API.ConectaAtende.Aplicacao.pdb
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Api\bin\Debug\net8.0\API.ConectaAtende.Dominio.pdb
+c:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Api\bin\Debug\net8.0\API.ConectaAtende.Infra.dll
+c:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Api\bin\Debug\net8.0\API.ConectaAtende.Infra.pdb
+c:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Api\bin\Debug\net8.0\Dados\contatos.json

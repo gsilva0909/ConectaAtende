@@ -70,8 +70,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\guilh\\OneDrive\\Documentos\\VsCode\\ConectaAtende\\Fonte\\API.ConectaAtende.Aplicacao\\API.ConectaAtende.Aplicacao.csproj": {
-              "projectPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\VsCode\\ConectaAtende\\Fonte\\API.ConectaAtende.Aplicacao\\API.ConectaAtende.Aplicacao.csproj"
+            "c:\\Users\\guilh\\OneDrive\\Documentos\\VsCode\\ConectaAtende\\Fonte\\API.ConectaAtende.Aplicacao\\API.ConectaAtende.Aplicacao.csproj": {
+              "projectPath": "c:\\Users\\guilh\\OneDrive\\Documentos\\VsCode\\ConectaAtende\\Fonte\\API.ConectaAtende.Aplicacao\\API.ConectaAtende.Aplicacao.csproj"
             },
             "C:\\Users\\guilh\\OneDrive\\Documentos\\VsCode\\ConectaAtende\\Fonte\\API.ConectaAtende.Dominio\\API.ConectaAtende.Dominio.csproj": {
               "projectPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\VsCode\\ConectaAtende\\Fonte\\API.ConectaAtende.Dominio\\API.ConectaAtende.Dominio.csproj"

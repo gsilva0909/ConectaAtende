@@ -1,0 +1,12 @@
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\bin\Debug\net8.0\API.ConectaAtende.Benchmarks.deps.json
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\bin\Debug\net8.0\API.ConectaAtende.Benchmarks.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\bin\Debug\net8.0\API.ConectaAtende.Benchmarks.pdb
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\obj\Debug\net8.0\API.ConectaAtende.Benchmarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\obj\Debug\net8.0\API.ConectaAtende.Benchmarks.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\obj\Debug\net8.0\API.ConectaAtende.Benchmarks.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\obj\Debug\net8.0\API.ConectaAtende.Benchmarks.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\obj\Debug\net8.0\API.ConectaAtende.Benchmarks.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\obj\Debug\net8.0\API.ConectaAtende.Benchmarks.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\obj\Debug\net8.0\refint\API.ConectaAtende.Benchmarks.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\obj\Debug\net8.0\API.ConectaAtende.Benchmarks.pdb
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Benchmarks\obj\Debug\net8.0\ref\API.ConectaAtende.Benchmarks.dll

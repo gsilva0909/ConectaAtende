@@ -1,0 +1,12 @@
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\bin\Debug\net8.0\API.ConectaAtende.Dominio.deps.json
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\bin\Debug\net8.0\API.ConectaAtende.Dominio.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\bin\Debug\net8.0\API.ConectaAtende.Dominio.pdb
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\obj\Debug\net8.0\API.ConectaAtende.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\obj\Debug\net8.0\API.ConectaAtende.Dominio.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\obj\Debug\net8.0\API.ConectaAtende.Dominio.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\obj\Debug\net8.0\API.ConectaAtende.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\obj\Debug\net8.0\API.ConectaAtende.Dominio.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\obj\Debug\net8.0\API.ConectaAtende.Dominio.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\obj\Debug\net8.0\refint\API.ConectaAtende.Dominio.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\obj\Debug\net8.0\API.ConectaAtende.Dominio.pdb
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Dominio\obj\Debug\net8.0\ref\API.ConectaAtende.Dominio.dll

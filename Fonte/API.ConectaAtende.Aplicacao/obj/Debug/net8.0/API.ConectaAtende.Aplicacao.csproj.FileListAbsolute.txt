@@ -1,0 +1,16 @@
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\bin\Debug\net8.0\API.ConectaAtende.Aplicacao.deps.json
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\bin\Debug\net8.0\API.ConectaAtende.Aplicacao.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\bin\Debug\net8.0\API.ConectaAtende.Aplicacao.pdb
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\bin\Debug\net8.0\API.ConectaAtende.Dominio.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\bin\Debug\net8.0\API.ConectaAtende.Dominio.pdb
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\obj\Debug\net8.0\API.ConectaAtende.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\obj\Debug\net8.0\API.ConectaAtende.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\obj\Debug\net8.0\API.ConectaAtende.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\obj\Debug\net8.0\API.ConectaAtende.Aplicacao.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\obj\Debug\net8.0\API.ConectaAtende.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\obj\Debug\net8.0\API.ConectaAtende.Aplicacao.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\obj\Debug\net8.0\API.Cone.47DB6CAB.Up2Date
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\obj\Debug\net8.0\API.ConectaAtende.Aplicacao.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\obj\Debug\net8.0\refint\API.ConectaAtende.Aplicacao.dll
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\obj\Debug\net8.0\API.ConectaAtende.Aplicacao.pdb
+C:\Users\guilh\OneDrive\Documentos\VsCode\ConectaAtende\Fonte\API.ConectaAtende.Aplicacao\obj\Debug\net8.0\ref\API.ConectaAtende.Aplicacao.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "API.ConectaAtende.Aplicacao/1.0.0": {
+        "dependencies": {
+          "API.ConectaAtende.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "API.ConectaAtende.Aplicacao.dll": {}
+        }
+      },
+      "API.ConectaAtende.Dominio/1.0.0": {
+        "runtime": {
+          "API.ConectaAtende.Dominio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API.ConectaAtende.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API.ConectaAtende.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
