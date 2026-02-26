@@ -1,5 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\API.ConectaAtende.Dominio\API.ConectaAtende.Dominio.csproj" />
+    <ProjectReference Include="..\API.ConectaAtende.Aplicacao\API.ConectaAtende.Aplicacao.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

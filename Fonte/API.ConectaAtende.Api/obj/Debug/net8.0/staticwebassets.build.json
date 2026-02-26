@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qAaOinb8wEhZOfHdqSOYwt63dUkOHYHYv4dtLDwFr3I=",
+  "Source": "API.ConectaAtende.Api",
+  "BasePath": "_content/API.ConectaAtende.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
